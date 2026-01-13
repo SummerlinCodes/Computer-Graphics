@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14cc78ca0b41dbfdefaa1c4feb1fdd1131dec949ac59f9c8ff2b1c87105f6037
-size 120
+# Visual Studio
+.vs/
+**/.vs/
+ipch/
+**/ipch/
+*.ipch
+*.VC.db
+*.VC.opendb
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# Archives
+*.zip
